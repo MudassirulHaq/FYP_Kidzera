@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e7bb47ed436cc9d43b735bfb04797fac
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - HVD Steinzeit
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b9e3288679dc28642a835ae970730507, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
