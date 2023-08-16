@@ -14,7 +14,7 @@
 
 ## Authors
 
-The Authors of this Project are *[Syed Mudassir Ul Haq](https://github.com/MudassirulHaq/FYP_Kidzera) (1912172) & [Saad Altaf](https://github.com/MSaaaadAltaf) (1912145)*.
+The Authors of this Project are *[Syed Mudassir Ul Haq](https://github.com/MudassirulHaq/FYP_Kidzera) (1912172) & [Saad Altaf](https://github.com/MSaaaadAltaf) (1912154)*.
 
 ## Features
  + Game
